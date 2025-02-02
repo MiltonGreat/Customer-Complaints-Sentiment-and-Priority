@@ -4,6 +4,10 @@
 
 This repository contains the analysis and machine learning models built on the Customer Complaints Sentiment and Priority Dataset. The dataset is based on consumer complaints in the financial sector, including sentiment analysis and priority classification of complaints. The project leverages Natural Language Processing (NLP) and Random Forest models for sentiment analysis and classification.
 
+By leveraging NLP and machine learning, financial institutions can develop smarter customer service automation, ensuring timely responses to high-priority complaints and improving overall user satisfaction.
+
+
+
 ### Project Overview
 
 In this project, we aim to:
